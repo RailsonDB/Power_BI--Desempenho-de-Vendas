@@ -31,8 +31,5 @@ O objetivo é transformar dados em insights claros para tomada de decisão.
 - Tabela detalhada por produto
 
 
-## Preview do Projeto
-
 ## 📷 Preview do Projeto
-
 ![Dashboard de Vendas](https://github.com/RailsonDB/Power_BI--Desempenho-de-Vendas/blob/554c4213cf4a3a96fe7718ed655086ce1794b466/Print_Dashboard/print_dashboard.png)
