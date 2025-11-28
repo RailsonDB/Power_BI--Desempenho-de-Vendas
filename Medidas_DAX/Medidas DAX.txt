@@ -1,0 +1,51 @@
+Medidas DAX:
+
+
+
+
+-- Faturamento Total
+
+BaseVendas[Prec_Unitario] * BaseVendas[Quantidade]
+
+
+
+
+-- Quantidades Vendidas
+
+Quantidade Vendidas = SUM(BaseVendas[Quantidade])
+
+
+
+
+-- Receita Total
+
+Receita Total = SUM(BaseDados[Faturamento Total])
+
+
+
+
+-- Ticket Médio
+
+Ticket Médio = DIVIDE([Receita Total], [Quantidade Vendidas])
+
+
+
+
+
+-- Total de Vendas
+
+Total de Vendas = COUNT(BaseVendas[ID_Venda])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
