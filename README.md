@@ -33,3 +33,13 @@ O objetivo é transformar dados em insights claros para tomada de decisão.
 
 ## 📷 Preview do Projeto
 ![Dashboard de Vendas](https://github.com/RailsonDB/Power_BI--Desempenho-de-Vendas/blob/554c4213cf4a3a96fe7718ed655086ce1794b466/Print_Dashboard/print_dashboard.png)
+
+
+## 🔎 Principais insights 
+- Faturamento total de **R$ 1,26 milhão**
+- Categoria **Informática** como líder do portfólio
+- **1° trimestre** identificado como período mais estratégico
+- **PE, BA e RS** como mercados-chave
+- Destaque para produto premium (**Cadeira Gamer**)
+
+
