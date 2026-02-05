@@ -43,3 +43,16 @@ O objetivo é transformar dados em insights claros para tomada de decisão.
 - Destaque para produto premium (**Cadeira Gamer**)
 
 
+## 📈 Conclusão
+A análsie dos dados msotra um desempenho sólido ao longo do período,<br>
+alcançando um faturamento de R% 1,26 milhão, com um portfólio bem distribuído<br>
+e liderado pela categoria Informática.<br>
+
+O destaque do 1° trimestre com o período mais estratégico, junto com a forte<br>
+participação de PE, BA e RS, ajuda a direcionar decisões importantes, como<br>
+campanhas comerciais, gestão de estoque e possíveis expansões regionias.<br>
+
+Além disso, a boa performance da Cadeira Gamer evidencia como produtos premium<br>
+podem impactar positivamente o faturamento, enquanto o mix equilibridado de<br>
+produtos contribui para a sustentabilidade do negócio no longo prazo.
+
