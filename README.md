@@ -45,7 +45,7 @@ O objetivo é transformar dados em insights claros para tomada de decisão.
 
 ## 📈 Conclusão
 A análsie dos dados msotra um desempenho sólido ao longo do período,<br>
-alcançando um faturamento de R% 1,26 milhão, com um portfólio bem distribuído<br>
+alcançando um faturamento de R$ 1,26 milhão, com um portfólio bem distribuído<br>
 e liderado pela categoria Informática.<br>
 
 O destaque do 1° trimestre com o período mais estratégico, junto com a forte<br>
