@@ -32,7 +32,7 @@ O objetivo é transformar dados em insights claros para tomada de decisão.
 
 
 ## 📷 Preview do Projeto
-![Dashboard de Vendas](<img width="1041" height="588" alt="Captura de tela 2026-03-04 161716" src="https://github.com/user-attachments/assets/27c0e2bb-72f0-47aa-8145-e1303e7c7c51" />
+![Dashboard de Vendas](https://github.com/user-attachments/assets/27c0e2bb-72f0-47aa-8145-e1303e7c7c51 />
 )
 
 
