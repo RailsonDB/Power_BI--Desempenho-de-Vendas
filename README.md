@@ -32,7 +32,7 @@ O objetivo é transformar dados em insights claros para tomada de decisão.
 
 
 ## 📷 Preview do Projeto
-![Dashboard de Vendas](https://github.com/RailsonDB/Power_BI--Desempenho-de-Vendas/blob/554c4213cf4a3a96fe7718ed655086ce1794b466/Print_Dashboard/print_dashboard.png)
+![Dashboard de Vendas]("C:\Users\rails\OneDrive\Pictures\Screenshots\Captura de tela 2026-03-04 161716.png")
 
 
 ## 🔎 Principais insights 
